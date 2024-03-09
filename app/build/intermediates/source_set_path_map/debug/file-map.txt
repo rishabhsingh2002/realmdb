@@ -1,0 +1,46 @@
+com.realmdb.realmgym.app-customview-poolingcontainer-1.0.0-0 /Users/rishabhsingh/.gradle/caches/transforms-3/0140725d8683cb0fedbb72f2ec111a17/transformed/customview-poolingcontainer-1.0.0/res
+com.realmdb.realmgym.app-ui-release-1 /Users/rishabhsingh/.gradle/caches/transforms-3/02947d1ab0f00bd0ee4a1d083c7eea47/transformed/ui-release/res
+com.realmdb.realmgym.app-lifecycle-viewmodel-ktx-2.7.0-2 /Users/rishabhsingh/.gradle/caches/transforms-3/05adbcca40e07225ae29e588e9c819f6/transformed/lifecycle-viewmodel-ktx-2.7.0/res
+com.realmdb.realmgym.app-lifecycle-process-2.7.0-3 /Users/rishabhsingh/.gradle/caches/transforms-3/0e0eb37f10f44cd5d0fac792e8a7bc43/transformed/lifecycle-process-2.7.0/res
+com.realmdb.realmgym.app-foundation-layout-release-4 /Users/rishabhsingh/.gradle/caches/transforms-3/125798a2ad783ac44c301fc386fa9eeb/transformed/foundation-layout-release/res
+com.realmdb.realmgym.app-foundation-release-5 /Users/rishabhsingh/.gradle/caches/transforms-3/139d4bb5eeb260479639d671e5e39439/transformed/foundation-release/res
+com.realmdb.realmgym.app-profileinstaller-1.3.0-6 /Users/rishabhsingh/.gradle/caches/transforms-3/2288e3fcbb4bab83823031c393a59374/transformed/profileinstaller-1.3.0/res
+com.realmdb.realmgym.app-animation-release-7 /Users/rishabhsingh/.gradle/caches/transforms-3/302c4f494b701e7575d6e612dc63647b/transformed/animation-release/res
+com.realmdb.realmgym.app-ui-tooling-release-8 /Users/rishabhsingh/.gradle/caches/transforms-3/361a65ed9571aac4aa392f212be54bab/transformed/ui-tooling-release/res
+com.realmdb.realmgym.app-startup-runtime-1.1.1-9 /Users/rishabhsingh/.gradle/caches/transforms-3/399c3de11fb93f11914ba8467cae46a2/transformed/startup-runtime-1.1.1/res
+com.realmdb.realmgym.app-core-1.12.0-10 /Users/rishabhsingh/.gradle/caches/transforms-3/4055dfcbc2f3d3f2af527b0df057f9ac/transformed/core-1.12.0/res
+com.realmdb.realmgym.app-material-ripple-release-11 /Users/rishabhsingh/.gradle/caches/transforms-3/42c4b4f46616bf330dc9fbc6ada0fcb7/transformed/material-ripple-release/res
+com.realmdb.realmgym.app-lifecycle-viewmodel-savedstate-2.7.0-12 /Users/rishabhsingh/.gradle/caches/transforms-3/48ff59d66fd1b066c464251ec2c8d243/transformed/lifecycle-viewmodel-savedstate-2.7.0/res
+com.realmdb.realmgym.app-ui-util-release-13 /Users/rishabhsingh/.gradle/caches/transforms-3/4c392621b7697ba593872cc3fab78c7a/transformed/ui-util-release/res
+com.realmdb.realmgym.app-ui-unit-release-14 /Users/rishabhsingh/.gradle/caches/transforms-3/5f857eabaaee56a200441f5258d8cdba/transformed/ui-unit-release/res
+com.realmdb.realmgym.app-ui-text-release-15 /Users/rishabhsingh/.gradle/caches/transforms-3/619aa885edafab5b6b11be1abbc69ce7/transformed/ui-text-release/res
+com.realmdb.realmgym.app-material-icons-core-release-16 /Users/rishabhsingh/.gradle/caches/transforms-3/6725571ce999f41d3782e3269173e825/transformed/material-icons-core-release/res
+com.realmdb.realmgym.app-lifecycle-viewmodel-2.7.0-17 /Users/rishabhsingh/.gradle/caches/transforms-3/677f9b6bfdc0efaa9add10ef48b749db/transformed/lifecycle-viewmodel-2.7.0/res
+com.realmdb.realmgym.app-ui-tooling-preview-release-18 /Users/rishabhsingh/.gradle/caches/transforms-3/774f287742b6ea5152379c47b22f866b/transformed/ui-tooling-preview-release/res
+com.realmdb.realmgym.app-ui-test-manifest-1.5.0-19 /Users/rishabhsingh/.gradle/caches/transforms-3/7f2493f477006b50529ba18f73082ea5/transformed/ui-test-manifest-1.5.0/res
+com.realmdb.realmgym.app-savedstate-1.2.1-20 /Users/rishabhsingh/.gradle/caches/transforms-3/8c908d0d1a8bcc21ed142dbba72947dc/transformed/savedstate-1.2.1/res
+com.realmdb.realmgym.app-activity-1.8.2-21 /Users/rishabhsingh/.gradle/caches/transforms-3/9186950ca2323b46b8e692444edc1e8a/transformed/activity-1.8.2/res
+com.realmdb.realmgym.app-animation-core-release-22 /Users/rishabhsingh/.gradle/caches/transforms-3/a72bac57711044458ef2e081fcd8a4da/transformed/animation-core-release/res
+com.realmdb.realmgym.app-emoji2-1.4.0-23 /Users/rishabhsingh/.gradle/caches/transforms-3/a8994911faaae06ba2a4ca5e7985ad2f/transformed/emoji2-1.4.0/res
+com.realmdb.realmgym.app-lifecycle-runtime-ktx-2.7.0-24 /Users/rishabhsingh/.gradle/caches/transforms-3/af786e1b59d70c0900a12cfb2f441e0d/transformed/lifecycle-runtime-ktx-2.7.0/res
+com.realmdb.realmgym.app-activity-compose-1.8.2-25 /Users/rishabhsingh/.gradle/caches/transforms-3/b06b2eb385d66689758715911a0c9fcb/transformed/activity-compose-1.8.2/res
+com.realmdb.realmgym.app-activity-ktx-1.8.2-26 /Users/rishabhsingh/.gradle/caches/transforms-3/b441a75303a39a322c1d80a354b61869/transformed/activity-ktx-1.8.2/res
+com.realmdb.realmgym.app-lifecycle-livedata-core-2.7.0-27 /Users/rishabhsingh/.gradle/caches/transforms-3/b61989999f0d97f92636eaf7ca6f0b72/transformed/lifecycle-livedata-core-2.7.0/res
+com.realmdb.realmgym.app-material3-1.1.1-28 /Users/rishabhsingh/.gradle/caches/transforms-3/b814448ee4f8f21f890de9d792ae7deb/transformed/material3-1.1.1/res
+com.realmdb.realmgym.app-material-release-29 /Users/rishabhsingh/.gradle/caches/transforms-3/c8c5198d447b041fc37db6e01f413840/transformed/material-release/res
+com.realmdb.realmgym.app-savedstate-ktx-1.2.1-30 /Users/rishabhsingh/.gradle/caches/transforms-3/cff52c83d2c1add4974848a043964a5f/transformed/savedstate-ktx-1.2.1/res
+com.realmdb.realmgym.app-ui-graphics-release-31 /Users/rishabhsingh/.gradle/caches/transforms-3/dc39e9a4e596e323ce5c2e3732f05c7d/transformed/ui-graphics-release/res
+com.realmdb.realmgym.app-core-ktx-1.12.0-32 /Users/rishabhsingh/.gradle/caches/transforms-3/e2d59aa5996e0d5ba620af74fc7c6272/transformed/core-ktx-1.12.0/res
+com.realmdb.realmgym.app-runtime-saveable-release-33 /Users/rishabhsingh/.gradle/caches/transforms-3/eb0c43ef9fa03f4eb2ceda52f7b0cc4d/transformed/runtime-saveable-release/res
+com.realmdb.realmgym.app-annotation-experimental-1.3.0-34 /Users/rishabhsingh/.gradle/caches/transforms-3/ecbec38a4a34de637c734ce95de50243/transformed/annotation-experimental-1.3.0/res
+com.realmdb.realmgym.app-ui-tooling-data-release-35 /Users/rishabhsingh/.gradle/caches/transforms-3/f751da4f77e40593a5b54e8f26230ba4/transformed/ui-tooling-data-release/res
+com.realmdb.realmgym.app-runtime-release-36 /Users/rishabhsingh/.gradle/caches/transforms-3/f80d346749d7e0a90ba4ab556aba2fe2/transformed/runtime-release/res
+com.realmdb.realmgym.app-ui-geometry-release-37 /Users/rishabhsingh/.gradle/caches/transforms-3/fd242e37df85a0f521b48061f2567777/transformed/ui-geometry-release/res
+com.realmdb.realmgym.app-lifecycle-runtime-2.7.0-38 /Users/rishabhsingh/.gradle/caches/transforms-3/fe200e44448a0c9f3c65c62b16c45166/transformed/lifecycle-runtime-2.7.0/res
+com.realmdb.realmgym.app-core-runtime-2.2.0-39 /Users/rishabhsingh/.gradle/caches/transforms-3/ff5fb5beae9b392805ddb18c0eb3c397/transformed/core-runtime-2.2.0/res
+com.realmdb.realmgym.app-resValues-40 /Users/rishabhsingh/Documents/Relam Db /RealmDBGYM/app/build/generated/res/resValues/debug
+com.realmdb.realmgym.app-packageDebugResources-41 /Users/rishabhsingh/Documents/Relam Db /RealmDBGYM/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.realmdb.realmgym.app-packageDebugResources-42 /Users/rishabhsingh/Documents/Relam Db /RealmDBGYM/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.realmdb.realmgym.app-merged_res-43 /Users/rishabhsingh/Documents/Relam Db /RealmDBGYM/app/build/intermediates/merged_res/debug
+com.realmdb.realmgym.app-debug-44 /Users/rishabhsingh/Documents/Relam Db /RealmDBGYM/app/src/debug/res
+com.realmdb.realmgym.app-main-45 /Users/rishabhsingh/Documents/Relam Db /RealmDBGYM/app/src/main/res
